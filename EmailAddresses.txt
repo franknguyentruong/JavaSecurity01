@@ -1,0 +1,4 @@
+john@email.com
+fred@school.edu
+susan@work.com
+
